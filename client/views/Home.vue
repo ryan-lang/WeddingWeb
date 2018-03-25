@@ -1,14 +1,14 @@
 <template>
   <div class="page">
   	<div class="clearfix">
-  	<div class="col xs-col-8">
-  		<div class="xs-px4 xs-pt4">
-		  	<h1 class="title-primary">Ryan Lang &</h1>
-		  	<h1 class="title-primary">Erica Lopez</h1>
-		  	<h2 class="xs-mt1">June 30th, 2017 / San Francisco, California</h2>
-		  </div>
-	  </div>
-  </div>
+      <div class="col xs-col-8 xs-offset-2">
+  		  <div class="xs-px4 xs-pt4">
+		  	 <h1 class="title-primary">Ryan Lang &</h1>
+		  	 <h1 class="title-primary">Erica Lopez</h1>
+		  	 <h2 class="xs-mt1">June 30th, 2017 / San Francisco, California</h2>
+		    </div>
+	     </div>
+      </div>
   	<counter></counter>
   </div>
 </template>

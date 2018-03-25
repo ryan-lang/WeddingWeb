@@ -12,5 +12,6 @@
 body {
   color:#08413E;
   font-family:"Cormorant Garamond";
+  border:4px solid #08413E;
 }
 </style>
